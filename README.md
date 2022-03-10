@@ -1,5 +1,5 @@
 # Machine-Learning-projects
-This rep includes many projects using ML algorithms
+This repository includes many projects using ML algorithms
 
 - [Algorithms](https://github.com/Lynn-Luyp/Machine-Learning-projects/blob/main/Algorithms.ipynb): 包含大部分主流算法在Tensorflow的实现
 - [ML](https://github.com/Lynn-Luyp/Machine-Learning-projects/blob/main/ML.ipynb): 这是机器学习的笔记，主要是Tensorflow在机器学习中的语法
